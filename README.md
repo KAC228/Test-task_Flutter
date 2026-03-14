@@ -120,10 +120,3 @@ flutter test
 
 - `Order.fromJson`
 - успешный и ошибочный сценарий `OrderController`
-
-## Что можно улучшить
-
-- добавить dependency injection
-- вынести конфигурацию API через `--dart-define`
-- добавить интеграционные тесты HTTP-слоя
-- подключить state management уровня `Bloc` или `Riverpod`, если проект станет больше
